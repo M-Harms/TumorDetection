@@ -1,4 +1,5 @@
 # Detecting Cancer in Tumor Images
+## Project Date: July 2023
 This is a notebook that uses [https://www.kaggle.com/c/histopathologic-cancer-detection/overview](https://www.kaggle.com/c/histopathologic-cancer-detection/overview). The goal of the notebook is to differentiate images contain a malignant tumor. This is done with a Convolutional Neural Network.
 
 ## Structure
